@@ -1,0 +1,8 @@
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\bin\Debug\Lab3_adding_validation.exe.config
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\bin\Debug\Lab3_adding_validation.exe
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\bin\Debug\Lab3_adding_validation.pdb
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\obj\Debug\Lab3_adding_validation.csproj.AssemblyReference.cache
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\obj\Debug\Lab3_adding_validation.csproj.SuggestedBindingRedirects.cache
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\obj\Debug\Lab3_adding_validation.csproj.CoreCompileInputs.cache
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\obj\Debug\Lab3_adding_validation.exe
+C:\Users\KevinPink-4S\Desktop\Lab3_adding_validation\Lab3_adding_validationApp\Lab3_adding_validation\obj\Debug\Lab3_adding_validation.pdb
