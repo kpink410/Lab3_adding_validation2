@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Lab3_adding_validation
 {
-    internal class Program
+    internal class 
+        Program
     {
             static void Main()
             {
